@@ -22,6 +22,3 @@ I am a computer science student with a focus on software development
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# GitHub Stats
-![Oleh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
