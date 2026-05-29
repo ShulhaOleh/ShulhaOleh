@@ -1,7 +1,8 @@
 # Oleh Shulha
 I am a computer science student with a focus on software development
 
-# Tech Stack
+<hr>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -23,6 +24,13 @@ I am a computer science student with a focus on software development
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Github Stats
-[![Oleh's GitHub stats](https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Oleh's GitHub stats](https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<details>
+<summary>GitHub Stats</summary>
+<br>
+
+[![Oleh's GitHub stats](https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
