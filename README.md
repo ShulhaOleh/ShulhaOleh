@@ -1,8 +1,6 @@
 # Oleh Shulha
 I am a computer science student with a focus on software development
 
-<hr>
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -24,13 +22,11 @@ I am a computer science student with a focus on software development
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<hr>
-
 <details>
 <summary>GitHub Stats</summary>
 <br>
 
-[![Oleh's GitHub stats](https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true&show_icons=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&layout=compact" /></a>
 
 </details>
