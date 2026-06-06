@@ -22,11 +22,5 @@ I am a computer science student with a focus on software development
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<details>
-<summary>GitHub Stats</summary>
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true&show_icons=true" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="195" src="https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&layout=compact" /></a>
-
-</details>
+[![Github Stats](https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
