@@ -1,26 +1,28 @@
 # Oleh Shulha
-I am a computer science student with a focus on software development
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+CS student at UAlbany. I build desktop apps for Windows and Linux, mostly in Rust and TypeScript.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <br>
+I've had patches merged into [winget-pkgs](https://github.com/microsoft/winget-pkgs), [Refract](https://github.com/RefractMC/Refract_MC), [deadlock-mod-manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) and [dlss-swapper](https://github.com/beeradmoore/dlss-swapper).
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
+Looking for a software engineering internship. [LinkedIn](https://www.linkedin.com/in/oleh-shulha/)
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br>
+## Skills
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cc%2Ccpp%2Ccs%2Cpy%2Cpostgres%2Cmysql%2Csqlite%2Clinux%2Cdocker%2Ccloudflare%2Cpowershell%2Cgit%2Cfigma%2Clatex&perline=9&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cc%2Ccpp%2Ccs%2Cpy%2Cpostgres%2Cmysql%2Csqlite%2Clinux%2Cdocker%2Ccloudflare%2Cpowershell%2Cgit%2Cfigma%2Clatex&perline=9&theme=light" />
+  <img src="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cc%2Ccpp%2Ccs%2Cpy%2Cpostgres%2Cmysql%2Csqlite%2Clinux%2Cdocker%2Ccloudflare%2Cpowershell%2Cgit%2Cfigma%2Clatex&perline=9&theme=dark" alt="Rust, TypeScript, React, Tauri, C, C++, C#, Python, PostgreSQL, MySQL, SQLite, Linux, Docker, Cloudflare, PowerShell, Git, Figma, LaTeX" />
+</picture>
 
-[![Github Stats](https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&theme=dark&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=242938&title_color=F5813F&icon_color=F5813F&ring_color=F5813F&text_color=D9DCE3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=F4F2ED&title_color=C4520F&icon_color=C4520F&ring_color=C4520F&text_color=2D2D2D" />
+  <img src="https://oleh-github-stats.vercel.app/api?username=ShulhaOleh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=242938&title_color=F5813F&icon_color=F5813F&ring_color=F5813F&text_color=D9DCE3" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&layout=compact&count_private=true&hide_border=true&border_radius=12&bg_color=242938&title_color=F5813F&icon_color=F5813F&ring_color=F5813F&text_color=D9DCE3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&layout=compact&count_private=true&hide_border=true&border_radius=12&bg_color=F4F2ED&title_color=C4520F&icon_color=C4520F&ring_color=C4520F&text_color=2D2D2D" />
+  <img src="https://oleh-github-stats.vercel.app/api/top-langs/?username=ShulhaOleh&layout=compact&count_private=true&hide_border=true&border_radius=12&bg_color=242938&title_color=F5813F&icon_color=F5813F&ring_color=F5813F&text_color=D9DCE3" alt="Top languages" />
+</picture>
